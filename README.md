@@ -1,2 +1,2 @@
 # react-hometown
-A react app for feeling at home whereever you are.
+A react app for feeling at home no matter where you are.
